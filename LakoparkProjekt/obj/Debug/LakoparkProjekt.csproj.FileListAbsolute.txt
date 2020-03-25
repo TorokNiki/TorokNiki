@@ -1,0 +1,10 @@
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\bin\Debug\lakoparkok.exe.config
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\bin\Debug\lakoparkok.exe
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\bin\Debug\lakoparkok.pdb
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.csprojAssemblyReference.cache
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.Form1.resources
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\lakoparkok.Properties.Resources.resources
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.StatForm.resources
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.csproj.GenerateResource.cache
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\lakoparkok.exe
+D:\suli\C#\vizsga gyakorlás\LakoparkProjekt\LakoparkProjekt\obj\Debug\lakoparkok.pdb
